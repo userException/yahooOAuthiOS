@@ -15,18 +15,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
-    
-    //MARK:- IBAction
-    @IBAction func openSwiftIllustration(_ sender: Any) {
-        
-       
-    }
-    
-
-    @IBAction func openObjectiveCIllustration(_ sender: Any) {
-        performSegue(withIdentifier: "openObjectiveCController", sender: nil)
-    }
-    
     /*
     // MARK: - Navigation
 

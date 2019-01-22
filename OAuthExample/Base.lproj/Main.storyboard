@@ -23,7 +23,6 @@
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="22"/>
                                 <state key="normal" title="Objective-C"/>
                                 <connections>
-                                    <action selector="openObjectiveCIllustration:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dhz-YE-LpF"/>
                                     <segue destination="ExF-BO-vz7" kind="presentation" identifier="openObjectiveCController" id="pdS-Sb-mC5"/>
                                 </connections>
                             </button>
@@ -38,7 +37,6 @@
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="22"/>
                                 <state key="normal" title="SWIFT"/>
                                 <connections>
-                                    <action selector="openSwiftIllustration:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VIR-vo-q3p"/>
                                     <segue destination="UIK-hg-n8h" kind="presentation" id="pxb-Lc-LGO"/>
                                 </connections>
                             </button>
