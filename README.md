@@ -1,5 +1,5 @@
 # yahooOAuthiOS
-An illustration of OAuth Signature call for Yahoo Weather written in Swift and Objective-C.
+An illustration of OAuth Signature call for Yahoo Weather API written in Swift and Objective-C.
 
 ![](sample.gif)
 
