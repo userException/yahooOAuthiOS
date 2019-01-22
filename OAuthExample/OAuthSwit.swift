@@ -1,10 +1,4 @@
-//
-//  OAuthSwit.swift
-//  OAuthExample
-//
-//  Created by Nipun on 1/21/19.
-//  Copyright © 2019 paxcel. All rights reserved.
-//
+
 
 import UIKit
 import CommonCrypto
