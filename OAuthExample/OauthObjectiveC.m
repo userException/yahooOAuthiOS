@@ -56,7 +56,7 @@
                 
                 if (currentObservation.allKeys.count)
                 {
-                    descString = [NSString stringWithFormat:@"%@°F, %@",
+                    descString = [NSString stringWithFormat:@"Miami is rocking at\n\n%@°F, %@",
                                    [[currentObservation objectForKey:@"condition"] objectForKey:@"temperature"],
                                    [[currentObservation objectForKey:@"condition"] objectForKey:@"text"]];
                 }

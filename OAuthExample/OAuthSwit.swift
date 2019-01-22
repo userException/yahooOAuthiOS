@@ -44,7 +44,7 @@ class OAuthSwit: UIViewController {
                         if let currentObservation = weatherResult["current_observation"] as? [String:Any],
                             let condition = currentObservation["condition"] as? [String:Any]{
                          
-                            descString = String.init(format: "%@°F, %@", condition["temperature"] as! NSNumber, condition["text"] as! String)
+                            descString = String.init(format: "Miami is rocking at\n\n%@°F, %@", condition["temperature"] as! NSNumber, condition["text"] as! String)
                         }
                     }
                     catch {
